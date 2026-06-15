@@ -122,7 +122,7 @@ Yearly sales performance showed a gradual decline:
 
 ## Pivot Table Preview 
 
-![Dashboard Screenshot](https://your-image-link.com/image.png)
+![Dashboard Screenshot](C623BDEF-209B-4D7D-8AA0-86D18A3D3961.jpeg)
 
 ## Conclusion
 
